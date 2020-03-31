@@ -52,7 +52,7 @@ First of all, you need to download and install the latest Service Estudio at the
 
 git clone https://github.com/wallacemancciny/Wpoker.git
 
-After downloading the repository to your machine, with the service studio open, upload the file with the extension ".opa" and publish the project.
+After downloading the repository to your machine, with the service studio open, upload the file with the extension ".oap" and publish the project.
 
 There, from now on the system will gain a unique address to be viewed and handled in your browser.
 
