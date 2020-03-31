@@ -1,20 +1,14 @@
-# OSMDB - Catálogo de Filmes
-O aplicativo se concentrará na criação e manutenção de um filme
-banco de dados, bem como as pessoas envolvidas no filme (elenco e equipe). Os filmes terão
-informações como título, resumo da trama e gênero. As pessoas terão informações biográficas
-como nome e data de nascimento, bem como conexão com os filmes em que trabalharam e em
-que capacidade.
-Os usuários do aplicativo de filme poderão acessar todas essas informações, mas também comentar em filmes e avalie-os. Essas classificações serão agregadas para referência de outros usuários, o que significa que os outros usuários possam ver as classificações médias e todos os comentários sobre um filme.
-Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) filmes, como também atores ou membros da equipe e associe-os a um filme.
+# Wpoker - Poker Club Management System
+WPoker é um sistema feito para de gestão de clubes de poker desenvolvido com Outsystems. Este sistema oferece a possibilidade do gestor do clube criar torneios, organizar campeonatos e rankings dos seus jogadores através de uma fórmula de pontuação. O sistema também possui uma tabela de pagamento capaz de distribuir a porcentagem dos pagamentos dos jogadores de acordo com a quantidade de inscritos. O gestor do clube possui um dashboard capaz de analisar a previsão de faturamento, media de faturamento por jogo, receitas dos últimos jogos, gráfico com a media de compra dos jogadores, valor do fechamento do caixa, lista de torneios e campeonatos abertos entre outros recursos.
 
 <h1 align="center">
-    <img alt="OSMDB - Catálogo de Filmes" src="" />
+    <img alt="Wpoker - Sistema de gestão de Clubes de Poker" src="https://github.com/wallacemancciny/Wpoker/blob/master/dashboard.JPG" />
     <br>
-    OSMDB 
+    Wpoker 
 </h1>
 
 <h3 align="center">
-  A film database system platform
+  A plataform for poker clubs.
 </h3>
 
 
@@ -23,14 +17,10 @@ Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) 
 <div align="center">
 
   <p align="center">
-    The application will focus on creating and maintaining a movie
-database, as well as the people involved in the film (cast and crew). Movies will have
-information such as title, plot summary and genre. People will have biographical information such as name and date of birth, as well as connection to the movies they worked on and in what capacity.
-Users of the movie application will be able to access all of this information, but also comment on movies and rate them. These ratings will be aggregated for other users’ reference, meaning that the other users can see the average ratings and all the comments about a movie. Administrators of the movie application will be able to add new (or edit existing) movies, as also
-actors or members of the crew and associate them with a movie.
+    WPoker is a system made for the management of poker clubs developed with Outsystems. This system offers the possibility for the club manager to create tournaments, organize championships and rankings of their players through a scoring formula. The system also has a paytable capable of distributing the percentage of players' payments according to the number of subscribers. The club manager has a dashboard capable of analyzing the billing forecast, billing average per game, revenue from the last games, graph with the players' purchase average, closing cash value, list of tournaments and open championships, among other resources.
   </p>
 
-  <img alt="OSMDB - Catálogo de Filmes" width="400" src="" />
+  <img alt="Wpoker - Sistema de gestão de Clubes de Poker" width="400" src="https://github.com/wallacemancciny/Wpoker/blob/master/games.JPG" />
 </div>
 
 ## 🖥 Technologies
@@ -43,7 +33,15 @@ This project was developed with outsystems, the platform has all the most advanc
 
 Below are some screenshots of the application in operation.
 
-  <img src="" />
+  <img src="https://github.com/wallacemancciny/Wpoker/blob/master/torneios.JPG" />
+  </br>
+  <img src="https://github.com/wallacemancciny/Wpoker/blob/master/campeonatos.JPG" />
+  </br>
+  <img src="https://github.com/wallacemancciny/Wpoker/blob/master/jogadores.JPG" />
+  </br>
+  <img src="https://github.com/wallacemancciny/Wpoker/blob/master/prizepools.JPG" />
+  </br>
+  <img src="https://github.com/wallacemancciny/Wpoker/blob/master/resultado-campeonato.JPG" />
 </div>
 
 ## 🚀 Getting started
