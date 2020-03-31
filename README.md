@@ -50,7 +50,7 @@ First of all, you need to download and install the latest Service Estudio at the
 
   After that, you can clone this repository with the following command below:
 
-git clone https:
+git clone https://github.com/wallacemancciny/Wpoker.git
 
 After downloading the repository to your machine, with the service studio open, upload the file with the extension ".opa" and publish the project.
 
