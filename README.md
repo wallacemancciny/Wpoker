@@ -27,28 +27,26 @@ WPoker é um sistema feito para de gestão de clubes de poker desenvolvido com O
 
 The project was developed with the following technologies:
 
--- Integrations - REST
--- Data Relationships
--- Architecture
--- Bootstrap Data and Entities
--- Preparation and Server Actions
--- Replace Data
--- Style Sheets Order
--- Input Validations
--- Users, Roles and Groups
--- Screen Lifecycle
--- Built-in Widgets
--- Logic
--- Entities and Static Entites
--- Data Types
--- Debug
--- Session Variables
--- Site Properties
--- SQL Queries
--- Aggregates
--- Rich Widgets
--- Exceptions Handling
--- Web Blocks
+    -- Data Relationships
+    -- Architecture
+    -- Bootstrap Data and Entities
+    -- Preparation and Server Actions
+    -- Style Sheets Order
+    -- Input Validations
+    -- Users, Roles and Groups
+    -- Screen Lifecycle
+    -- Built-in Widgets
+    -- Logic
+    -- Entities and Static Entites
+    -- Data Types
+    -- Debug
+    -- Session Variables
+    -- Site Properties
+    -- SQL Queries
+    -- Aggregates
+    -- Rich Widgets
+    -- Exceptions Handling
+    -- Web Blocks
 
 ## 👁 Preview
 
